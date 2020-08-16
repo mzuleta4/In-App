@@ -1,0 +1,12 @@
+{
+  "name": "tracks",
+  "displayName": "tracks",
+  "expo": {
+    "name": "tracks",
+    "slug": "tracks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
